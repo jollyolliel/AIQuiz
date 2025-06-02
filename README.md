@@ -4,6 +4,12 @@ A smart, customizable **True/False quiz application** powered by **OpenAI GPT-4o
 
 ---
 
+[Topic Selection](main.PNG)
+
+[Question](questions.PNG)
+
+---
+
 ## 🚀 Features
 
 - ✅ AI-generated quiz questions (based on user topic and difficulty).
